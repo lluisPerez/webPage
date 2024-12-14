@@ -1,0 +1,165 @@
+/* Estils bàsics */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Capçalera */
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+header .logo h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li button {
+    background: none;
+    color: white;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s, border-color 0.3s;
+}
+
+nav ul li button:hover {
+    background-color: #34495e;
+    border-color: white;
+}
+
+/* Contingut principal */
+main {
+    padding: 40px 20px;
+    max-width: 1200px;
+    margin: auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Galeria */
+
+.gallery img {
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    transition: transform 0.3s ease;
+}
+
+
+
+/* Peu de pàgina */
+footer {
+    background-color: #2c3e50;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+footer p {
+    margin: 0;
+}
+.menu-grid {
+    display: grid; /* Disposem els plats en un grid */
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Columnes flexibles */
+    gap: 20px; /* Separació entre els elements */
+    margin-top: 20px;
+}
+
+.menu-item {
+    position: relative; /* Per permetre el posicionament del text superposat */
+    overflow: hidden;
+    border-radius: 8px; /* Cantonades arrodonides */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra subtil */
+    transition: transform 0.3s ease; /* Efecte de zoom suau */
+}
+
+.menu-item img {
+    width: 100%; /* Ajusta la mida de la imatge al contenidor */
+    height: auto;
+    transition: transform 0.3s ease; /* Zoom suau */
+}
+
+.menu-item:hover img {
+    transform: scale(1.1); /* Augmenta la mida de la imatge */
+}
+
+.menu-item .menu-text {
+    position: absolute;
+    bottom: 0; /* Aliniat a la part inferior */
+    left: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7); /* Fons negre transparent */
+    color: white;
+    padding: 10px; /* Espai dins la capa */
+    text-align: center;
+    opacity: 0; /* Amagat inicialment */
+    transition: opacity 0.3s ease; /* Aparició gradual */
+}
+
+.menu-item:hover .menu-text {
+    opacity: 1; /* Mostra el text amb hover */
+}
+
+/* AFEGIT: Galeria amb animació */
+.gallery {
+    display: flex; /* Layout en files flexibles */
+    flex-direction: column;
+    gap: 20px; /* Separació entre files */
+    overflow: visible; /* Amaga les parts que surten de la pantalla */
+    position: relative;
+    height: 600px; /* Altura fixa */
+}
+
+.gallery-row {
+    display: flex; /* Imatges en línia */
+    gap: 20px; /* Separació entre imatges */
+    animation: scroll 15s linear infinite; /* Animació contínua */
+
+}
+
+.gallery-row img {
+    width: 300px; /* Amplada fixa */
+    height: 200px; /* Altura fixa */
+    border-radius: 8px; /* Cantonades arrodonides */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombra subtil */
+}
+
+/* AFEGIT: Animació de la galeria */
+@keyframes scroll {
+    from {
+        transform: translateX(0); /* Comença al principi */
+    }
+    to {
+        transform: translateX(-100%); /* Mou cap a l’esquerra */
+    }
+}
+.gallery-row img:nth-child(n+7) {
+    margin-left: 20px; /* Espai entre les còpies */
+}
+.gallery-row {
+    width: max-content; /* Això fa que la galeria tingui amplada suficient per a les imatges i còpies */
+}
