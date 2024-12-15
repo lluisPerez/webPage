@@ -33,51 +33,51 @@ const sections = {
     <h2>El Menú</h2>
     <div class="menu-grid">
         <div class="menu-item">
-            <img src="Fotos lluis/Musclos_Salsa.jpg" alt="Musclos">
+            <img src="Musclos_Salsa.jpg" alt="Musclos">
             <div class="menu-text">Musclo de buixot amb salsa cafe de París</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/PatatesBraves.jpg" alt="Braves">
+            <img src="PatatesBraves.jpg" alt="Braves">
             <div class="menu-text">Patates braves</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Pa_Foie.jpg" alt="Foie">
+            <img src="Pa_Foie.jpg" alt="Foie">
             <div class="menu-text">Foie d'ànec</div> <!-- Text explicatiu -->
         </div>
                     <div class="menu-item">
-            <img src="Fotos lluis/Pures_Verdures.jpg" alt="Pures">
+            <img src="Pures_Verdures.jpg" alt="Pures">
             <div class="menu-text">Tast de pures de verdures</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Wagyu.jpg" alt="Wagyu">
+            <img src="Wagyu.jpg" alt="Wagyu">
             <div class="menu-text">Wagyu japonés </div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Salmo_Alaska.jpg" alt="Salmó">
+            <img src="Salmo_Alaska.jpg" alt="Salmó">
             <div class="menu-text">Salmó d'Alaska</div> <!-- Text explicatiu -->
         </div>
                     <div class="menu-item">
-            <img src="Fotos lluis/Arros_Negre.png" alt="Arrós">
+            <img src="Arros_Negre.png" alt="Arrós">
             <div class="menu-text">Arrós negre amb chipirons i llengostins</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Ratatouille.jpg" alt="Ratatoullie">
+            <img src="Ratatouille.jpg" alt="Ratatoullie">
             <div class="menu-text">Ratatoullie</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/CheeseCake.png" alt="Cheescake">
+            <img src="CheeseCake.png" alt="Cheescake">
             <div class="menu-text">Cheescake amb fruits del bosc</div> <!-- Text explicatiu -->
         </div>
                     <div class="menu-item">
-            <img src="Fotos lluis/LemonPie.jpg" alt="Lemon pie">
+            <img src="LemonPie.jpg" alt="Lemon pie">
             <div class="menu-text">Lemon pie</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/gelat.jpg" alt="Gelat">
+            <img src="gelat.jpg" alt="Gelat">
             <div class="menu-text">Gelat de vainilla</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/MousseXoco.jpg" alt="Mousse">
+            <img src="MousseXoco.jpg" alt="Mousse">
             <div class="menu-text">Mousse de xocolata</div> <!-- Text explicatiu -->
         </div>
     </div>
@@ -91,32 +91,32 @@ galeria: `
     <div class="gallery" class="image-wrapper">
         <!-- Fila 1 -->
         <div class="gallery-row">
-            <img src="Celler/Imatge_1.jpg" alt="Image 1">
-            <img src="Celler/Imatge_2.jpg" alt="Image 2">
-            <img src="Celler/Imatge_3.jpg" alt="Image 3">
-            <img src="Celler/Imatge_4.jpg" alt="Image 4">
-            <img src="Celler/Imatge_5.jpg" alt="Image 5">
-            <img src="Celler/Imatge_6.jpg" alt="Image 6">
+            <img src="Imatge_1.jpg" alt="Image 1">
+            <img src="Imatge_2.jpg" alt="Image 2">
+            <img src="Imatge_3.jpg" alt="Image 3">
+            <img src="Imatge_4.jpg" alt="Image 4">
+            <img src="Imatge_5.jpg" alt="Image 5">
+            <img src="Imatge_6.jpg" alt="Image 6">
         </div>
 
         <!-- Fila 2 -->
         <div class="gallery-row">
-            <img src="Celler/Imatge_7.jpg" alt="Image 7">
-            <img src="Celler/Imatge_8.jpg" alt="Image 8">
-            <img src="Celler/Imatge_9.jpg" alt="Image 9">
-            <img src="Celler/Imatge_10.jpg" alt="Image 10">
-            <img src="Celler/Imatge_11.jpg" alt="Image 11">
-            <img src="Celler/Imatge_12.jpg" alt="Image 12">
+            <img src="Imatge_7.jpg" alt="Image 7">
+            <img src="Imatge_8.jpg" alt="Image 8">
+            <img src="Imatge_9.jpg" alt="Image 9">
+            <img src="Imatge_10.jpg" alt="Image 10">
+            <img src="Imatge_11.jpg" alt="Image 11">
+            <img src="Imatge_12.jpg" alt="Image 12">
         </div>
 
         <!-- Fila 3 -->
         <div class="gallery-row">
-            <img src="Celler/Imatge_13.jpg" alt="Image 13">
-            <img src="Celler/Imatge_14.jpg" alt="Image 14">
-            <img src="Celler/Imatge_15.jpg" alt="Image 15">
-            <img src="Celler/Imatge_16.jpg" alt="Image 16">
-            <img src="Celler/Imatge_17.jpg" alt="Image 17">
-            <img src="Celler/Imatge_18.jpg" alt="Image 18">
+            <img src="Imatge_13.jpg" alt="Image 13">
+            <img src="Imatge_14.jpg" alt="Image 14">
+            <img src="Imatge_15.jpg" alt="Image 15">
+            <img src="Imatge_16.jpg" alt="Image 16">
+            <img src="Imatge_17.jpg" alt="Image 17">
+            <img src="Imatge_18.jpg" alt="Image 18">
         </div>
     </div>
 </section>
