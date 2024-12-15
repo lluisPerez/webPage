@@ -20,32 +20,69 @@ const sections = {
         <!-- Filosofia -->
         <div class="filosofia">
             <h3>La Filosofia</h3>
-            <img src="img_portada_els3.jpg" alt="Filosofia del Restaurant" class="imagen-filosofia">
             <p>La cuina del restaurant es fonamenta en tres grans pilars: la sostenibilitat, la proximitat i la passió per l’art culinari. Els germans Roca creuen fermament en el respecte per la terra i els seus productes, apostant per una cuina que respecti els cicles naturals i els productes de temporada. Així, treballen estretament amb petits productors locals i utilitzen ingredients de màxima qualitat per crear plats que no només són una explosió de sabors, sinó també una experiència visual i sensorial per als comensals.</p>
             <p>La filosofia de cuina de "El Celler de Can Roca" combina tècniques tradicionals amb innovació i creativitat, oferint als clients una experiència única, on cada plat té una història pròpia. La recerca constant de la perfecció i la cura en cada detall fa que el restaurant sigui una destinació imprescindible per als amants de la bona cuina.</p>
+            <img src="cuina-principal.jpg" alt="Filosofia del Restaurant" class="imagen-filosofia">
         </div>
     </div>
 </section>
 
     `,
     menu: `
-    <section id="menu">
-        <h2>El Menú</h2>
-        <div class="menu-grid">
-            <div class="menu-item">
-                <img src="https://via.placeholder.com/400x300?text=Ostra" alt="Ostra">
-                <div class="menu-text">Ostra al vapor amb destil·lat de terra</div> <!-- Text explicatiu -->
-            </div>
-            <div class="menu-item">
-                <img src="https://via.placeholder.com/400x300?text=Consomé" alt="Consomé">
-                <div class="menu-text">Consomé de poma verda</div> <!-- Text explicatiu -->
-            </div>
-            <div class="menu-item">
-                <img src="https://via.placeholder.com/400x300?text=Postres" alt="Postres">
-                <div class="menu-text">Postres làctiques de Jordi Roca</div> <!-- Text explicatiu -->
-            </div>
+<section id="menu">
+    <h2>El Menú</h2>
+    <div class="menu-grid">
+        <div class="menu-item">
+            <img src="Fotos lluis/Musclos_Salsa.jpg" alt="Musclos">
+            <div class="menu-text">Musclo de buixot amb salsa cafe de París</div> <!-- Text explicatiu -->
         </div>
-    </section>
+        <div class="menu-item">
+            <img src="Fotos lluis/PatatesBraves.jpg" alt="Braves">
+            <div class="menu-text">Patates braves</div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/Pa_Foie.jpg" alt="Foie">
+            <div class="menu-text">Foie d'ànec</div> <!-- Text explicatiu -->
+        </div>
+                    <div class="menu-item">
+            <img src="Fotos lluis/Pures_Verdures.jpg" alt="Pures">
+            <div class="menu-text">Tast de pures de verdures</div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/Wagyu.jpg" alt="Wagyu">
+            <div class="menu-text">Wagyu japonés </div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/Salmo_Alaska.jpg" alt="Salmó">
+            <div class="menu-text">Salmó d'Alaska</div> <!-- Text explicatiu -->
+        </div>
+                    <div class="menu-item">
+            <img src="Fotos lluis/Arros_Negre.png" alt="Arrós">
+            <div class="menu-text">Arrós negre amb chipirons i llengostins</div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/Ratatouille.jpg" alt="Ratatoullie">
+            <div class="menu-text">Ratatoullie</div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/CheeseCake.png" alt="Cheescake">
+            <div class="menu-text">Cheescake amb fruits del bosc</div> <!-- Text explicatiu -->
+        </div>
+                    <div class="menu-item">
+            <img src="Fotos lluis/LemonPie.jpg" alt="Lemon pie">
+            <div class="menu-text">Lemon pie</div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/gelat.jpg" alt="Gelat">
+            <div class="menu-text">Gelat de vainilla</div> <!-- Text explicatiu -->
+        </div>
+        <div class="menu-item">
+            <img src="Fotos lluis/MousseXoco.jpg" alt="Mousse">
+            <div class="menu-text">Mousse de xocolata</div> <!-- Text explicatiu -->
+        </div>
+    </div>
+</section>
+
 `,
 
 galeria: `
@@ -54,32 +91,32 @@ galeria: `
     <div class="gallery" class="image-wrapper">
         <!-- Fila 1 -->
         <div class="gallery-row">
-            <img src="image1.jpg" alt="Image 1">
-            <img src="image2.jpg" alt="Image 2">
-            <img src="image3.jpg" alt="Image 3">
-            <img src="image4.jpg" alt="Image 4">
-            <img src="image5.jpg" alt="Image 5">
-            <img src="image6.jpg" alt="Image 6">
+            <img src="Celler/Imatge_1.jpg" alt="Image 1">
+            <img src="Celler/Imatge_2.jpg" alt="Image 2">
+            <img src="Celler/Imatge_3.jpg" alt="Image 3">
+            <img src="Celler/Imatge_4.jpg" alt="Image 4">
+            <img src="Celler/Imatge_5.jpg" alt="Image 5">
+            <img src="Celler/Imatge_6.jpg" alt="Image 6">
         </div>
 
         <!-- Fila 2 -->
         <div class="gallery-row">
-            <img src="image7.jpg" alt="Image 7">
-            <img src="image8.jpg" alt="Image 8">
-            <img src="image9.jpg" alt="Image 9">
-            <img src="image10.jpg" alt="Image 10">
-            <img src="image11.jpg" alt="Image 11">
-            <img src="image12.jpg" alt="Image 12">
+            <img src="Celler/Imatge_7.jpg" alt="Image 7">
+            <img src="Celler/Imatge_8.jpg" alt="Image 8">
+            <img src="Celler/Imatge_9.jpg" alt="Image 9">
+            <img src="Celler/Imatge_10.jpg" alt="Image 10">
+            <img src="Celler/Imatge_11.jpg" alt="Image 11">
+            <img src="Celler/Imatge_12.jpg" alt="Image 12">
         </div>
 
         <!-- Fila 3 -->
         <div class="gallery-row">
-            <img src="image13.jpg" alt="Image 13">
-            <img src="image14.jpg" alt="Image 14">
-            <img src="image15.jpg" alt="Image 15">
-            <img src="image16.jpg" alt="Image 16">
-            <img src="image17.jpg" alt="Image 17">
-            <img src="image18.jpg" alt="Image 18">
+            <img src="Celler/Imatge_13.jpg" alt="Image 13">
+            <img src="Celler/Imatge_14.jpg" alt="Image 14">
+            <img src="Celler/Imatge_15.jpg" alt="Image 15">
+            <img src="Celler/Imatge_16.jpg" alt="Image 16">
+            <img src="Celler/Imatge_17.jpg" alt="Image 17">
+            <img src="Celler/Imatge_18.jpg" alt="Image 18">
         </div>
     </div>
 </section>
