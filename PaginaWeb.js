@@ -90,10 +90,10 @@ const sections = {
             <div class="carousel-item active">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_1.jpg" alt="Image 1" class="d-block w-100">
+                        <img src="Imatge_1.jpg" alt="Image 1" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_2.jpg" alt="Image 2" class="d-block w-100">
+                        <img src="Imatge_2.jpg" alt="Image 2" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -101,10 +101,10 @@ const sections = {
             <div class="carousel-item">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_3.jpg" alt="Image 3" class="d-block w-100">
+                        <img src="Imatge_3.jpg" alt="Image 3" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_4.jpg" alt="Image 4" class="d-block w-100">
+                        <img src="Imatge_4.jpg" alt="Image 4" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -112,10 +112,10 @@ const sections = {
             <div class="carousel-item">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_5.jpg" alt="Image 5" class="d-block w-100">
+                        <img src="Imatge_5.jpg" alt="Image 5" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_6.jpg" alt="Image 6" class="d-block w-100">
+                        <img src="Imatge_6.jpg" alt="Image 6" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -139,10 +139,10 @@ const sections = {
             <div class="carousel-item active">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_7.jpg" alt="Image 7" class="d-block w-100">
+                        <img src="Imatge_7.jpg" alt="Image 7" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_8.jpg" alt="Image 8" class="d-block w-100">
+                        <img src="Imatge_8.jpg" alt="Image 8" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -150,10 +150,10 @@ const sections = {
             <div class="carousel-item">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_9.jpg" alt="Image 9" class="d-block w-100">
+                        <img src="Imatge_9.jpg" alt="Image 9" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_10.jpg" alt="Image 10" class="d-block w-100">
+                        <img src="Imatge_10.jpg" alt="Image 10" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -161,10 +161,10 @@ const sections = {
             <div class="carousel-item">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_11.jpg" alt="Image 11" class="d-block w-100">
+                        <img src="Imatge_11.jpg" alt="Image 11" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_12.jpg" alt="Image 12" class="d-block w-100">
+                        <img src="Imatge_12.jpg" alt="Image 12" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -188,10 +188,10 @@ const sections = {
             <div class="carousel-item active">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_13.jpg" alt="Image 13" class="d-block w-100">
+                        <img src="Imatge_13.jpg" alt="Image 13" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_14.jpg" alt="Image 14" class="d-block w-100">
+                        <img src="Imatge_14.jpg" alt="Image 14" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -199,10 +199,10 @@ const sections = {
             <div class="carousel-item">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_15.jpg" alt="Image 15" class="d-block w-100">
+                        <img src="Imatge_15.jpg" alt="Image 15" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_16.jpg" alt="Image 16" class="d-block w-100">
+                        <img src="Imatge_16.jpg" alt="Image 16" class="d-block w-100">
                     </div>
                 </div>
             </div>
@@ -210,10 +210,10 @@ const sections = {
             <div class="carousel-item">
                 <div class="row">
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_17.jpg" alt="Image 17" class="d-block w-100">
+                        <img src="Imatge_17.jpg" alt="Image 17" class="d-block w-100">
                     </div>
                     <div class="col-md-6">
-                        <img src="Celler/Imatge_18.jpg" alt="Image 18" class="d-block w-100">
+                        <img src="Imatge_18.jpg" alt="Image 18" class="d-block w-100">
                     </div>
                 </div>
             </div>
