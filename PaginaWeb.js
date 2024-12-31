@@ -30,51 +30,51 @@ const sections = {
     <h2>El Menú</h2>
     <div class="menu-grid">
         <div class="menu-item">
-            <img src="Fotos lluis/Musclos_Salsa.jpg" alt="Musclos">
+            <img src="Musclos_Salsa.jpg" alt="Musclos">
             <div class="menu-text">Musclo de buixot amb salsa cafe de París</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/PatatesBraves.jpg" alt="Braves">
+            <img src="PatatesBraves.jpg" alt="Braves">
             <div class="menu-text">Patates braves</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Pa_Foie.jpg" alt="Foie">
+            <img src="Pa_Foie.jpg" alt="Foie">
             <div class="menu-text">Foie d'ànec</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Pures_Verdures.jpg" alt="Pures">
+            <img src="Pures_Verdures.jpg" alt="Pures">
             <div class="menu-text">Tast de pures de verdures</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Wagyu.jpg" alt="Wagyu">
+            <img src="Wagyu.jpg" alt="Wagyu">
             <div class="menu-text">Wagyu japonés </div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Salmo_Alaska.jpg" alt="Salmó">
+            <img src="Salmo_Alaska.jpg" alt="Salmó">
             <div class="menu-text">Salmó d'Alaska</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Arros_Negre.png" alt="Arrós">
+            <img src="Arros_Negre.png" alt="Arrós">
             <div class="menu-text">Arrós negre amb chipirons i llengostins</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/Ratatouille.jpg" alt="Ratatoullie">
+            <img src="Ratatouille.jpg" alt="Ratatoullie">
             <div class="menu-text">Ratatoullie</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/CheeseCake.png" alt="Cheescake">
+            <img src="CheeseCake.png" alt="Cheescake">
             <div class="menu-text">Cheescake amb fruits del bosc</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/LemonPie.jpg" alt="Lemon pie">
+            <img src="LemonPie.jpg" alt="Lemon pie">
             <div class="menu-text">Lemon pie</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/gelat.jpg" alt="Gelat">
+            <img src="gelat.jpg" alt="Gelat">
             <div class="menu-text">Gelat de vainilla</div> <!-- Text explicatiu -->
         </div>
         <div class="menu-item">
-            <img src="Fotos lluis/MousseXoco.jpg" alt="Mousse">
+            <img src="MousseXoco.jpg" alt="Mousse">
             <div class="menu-text">Mousse de xocolata</div> <!-- Text explicatiu -->
         </div>
     </div>
