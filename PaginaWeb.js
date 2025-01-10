@@ -282,11 +282,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Add language toggle event listener
     const languageToggle = document.getElementById("language-toggle");
-    if (languageToggle) {
-        languageToggle.addEventListener("click", toggleLanguage);
-    } else {
-        console.error("Language toggle button not found.");
-    }
+    languageToggle.addEventListener("click", toggleLanguage);
+    
 });
 const themeToggleBtn = document.getElementById('theme-toggle');
 

@@ -6,7 +6,7 @@ body {
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
-    transition: background-color 0.3s, color 0.3s; /* Smooth transition for background and text color */
+    transition: background-color 0.3s, color 0.3s; 
 }
 
 /* Capçalera */
@@ -24,8 +24,8 @@ header .logo h1 {
     font-size: 24px;
 }
 .nav-icon {
-    width: 30px;    /* Adjust width as needed */
-    height: 30px;   /* Adjust height as needed */
+    width: 30px;    
+    height: 30px;  
   }
 nav ul {
     list-style: none;
@@ -128,12 +128,11 @@ body.dark-mode .menu-item:hover img {
     transform: scale(1.05);
 }
 
-/* Dark mode button */
 #theme-toggle:hover {
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-/* Focus effect */
+
 #theme-toggle:focus {
     outline: none;
 }
@@ -348,28 +347,27 @@ body.dark-mode .historia p, body.dark-mode .filosofia p {
     outline: none;
 }
 /* Links */ 
-/* Default link style */
 a {
-    color: #007bff;  /* Blue */
+    color: #007bff;  
     text-decoration: none;
     font-weight: normal;
 }
 section ul{
     margin-bottom: 470px;
 }
-/* Visited link style */
+
 a:visited {
-    color: #800080;  /* Purple (default for light mode) */
+    color: #800080;  
 }
 
-/* Dark mode */
+
 body.dark-mode a {
-    color: #9b59b6;  /* Light purple for dark mode */
+    color: #9b59b6;  /
 }
 
-/* Dark mode visited link style */
+
 body.dark-mode a:visited {
-    color: #bb80d3;  /* Lighter purple for visited links in dark mode */
+    color: #bb80d3;  
 }
 
 /* Disseny responsive: apilar imatges en pantalles més petites */
